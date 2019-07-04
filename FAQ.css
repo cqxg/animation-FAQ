@@ -47,3 +47,9 @@ main {
     border: 1px solid rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
 }
+
+.desc {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 35; 
+}
